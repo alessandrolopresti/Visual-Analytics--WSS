@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/ >
+    <title>Smoothed D3.js Radar Chart</title>
+
+    <!-- Google fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+    <!-- D3.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+
+    <style>
+
+
+
+        .legend {
+            font-family: 'Raleway', sans-serif;
+            fill: #333333;
+        }
+
+        .tooltip {
+            fill: #333333;
+        }
+
+    </style>
+
+</head>
+<body >
+
+<div class="radarChart"></div>
+
+<div class="legend-container">
+    <div id="legend-viz" class="legend-content"></div>
+</div>
+
+<script src="RadarChart.js"></script>
+<script>
+
+    /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
+
+    //////////////////////////////////////////////////////////////
+    //////////////////////// Set-Up //////////////////////////////
+    //////////////////////////////////////////////////////////////
+
+
+    //////////////////////////////////////////////////////////////
+    ////////////////////////// Data //////////////////////////////
+    //////////////////////////////////////////////////////////////
+
+    var data1= [
+        [//Mexico
+
+            {axis:"Home Victory",value:99},
+            {axis:"Transfert Victory",value:20},
+            {axis:"Draw",value:59},
+            {axis:"Goal done",value:87},
+            {axis:"Goals received",value:72},
+            {axis:"Games Played",value:99+20+59}
+
+        ],
+            [//Italy
+
+            {axis:"Home Victory",value:79},
+                {axis:"Transfert Victory",value:30},
+                {axis:"Draw",value:89},
+                {axis:"Goal done",value:77},
+                {axis:"Goals received",value:72},
+                {axis:"Games Played",value:79+30+89}
+
+            ]
+
+    ];
+    var data2= [
+        [//Italy
+
+            {axis:"Home Victory",value:79},
+            {axis:"Transfert Victory",value:50},
+            {axis:"Draw",value:19},
+            {axis:"Goal done",value:77},
+            {axis:"Goals received",value:22},
+            {axis:"Games Played",value:79+50+19}
+
+        ],[//France
+            {axis:"Home Victory",value:90},
+            {axis:"Transfert Victory",value:20},
+            {axis:"Draw",value:49},
+            {axis:"Goal done",value:120},
+            {axis:"Goals received",value:33},
+            {axis:"Games Played",value:90+20+49}
+        ],[//Germany
+            {axis:"Home Victory",value:50},
+            {axis:"Transfert Victory",value:30},
+            {axis:"Draw",value:9},
+            {axis:"Goal done",value:34},
+            {axis:"Goals received",value:22},
+            {axis:"Games Played",value:30+50+9}
+        ],[//Marocco
+            {axis:"Home Victory",value:19},
+            {axis:"Transfert Victory",value:40},
+            {axis:"Draw",value:39},
+            {axis:"Goal done",value:37},
+            {axis:"Goals received",value:72},
+            {axis:"Games Played",value:19+40+39}
+
+        ]
+    ];
+
+    //////////////////////////////////////////////////////////////
+    //////////////////// Draw the Chart //////////////////////////
+    //////////////////////////////////////////////////////////////
+
+    var color = d3.scale.category10();
+
+    var radarChartOptions = {
+
+    };
+    //Call function to draw the Radar chart
+    RadarChart(".radarChart", data1, radarChartOptions);
+
+
+
+</script>
+</body>
+</html>

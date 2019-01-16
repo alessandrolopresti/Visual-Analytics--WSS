@@ -1,0 +1,16 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+France,149,2,2,0,0,1
+Hungary,153,5,5,2,1,0
+Austria,137,5,5,1,2,0
+Brazil,22,15,6,3,0,2
+Chile,20,1,12,0,3,0
+Paraguay,26,3,12,0,4,0
+Argentina,18,33,26,6,6,1
+Uruguay,29,20,16,6,2,1
+Sweden,173,16,19,3,4,1
+Finland,148,3,4,0,1,1
+Denmark,145,10,7,2,2,0
+Netherlands,164,5,6,1,1,1
+Norway,165,14,12,3,1,1
+Ireland,154,1,1,0,0,1
+United Kingdom,150,1,1,0,0,1

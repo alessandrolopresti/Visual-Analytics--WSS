@@ -1,0 +1,7 @@
+{"identifier":"id",
+  "label": "label",
+  "items": [
+    {"label":"Alabama","id":"AL"},
+    { "label":"Italy","id":2},
+    { "label":"Italdsay","id":34}
+  ]}

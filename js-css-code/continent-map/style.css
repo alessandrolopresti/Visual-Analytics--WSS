@@ -1,0 +1,59 @@
+
+#tooltip {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); pointer-events: none;
+}
+#tooltip.hidden { display: none;
+}
+#tooltip p { margin: 0;
+    font-family: sans-serif; font-size: 16px;
+    line-height: 20px;
+}
+
+
+
+
+div {
+    /*margin-bottom: 10px;*/
+}
+
+.pan rect,
+.zoom rect {
+    fill: black;
+    opacity: 0.2;
+}
+
+.zoom rect {
+    rx: 5;  /* Rounded corners */
+    ry: 5;
+}
+
+.pan text,
+.zoom text {
+    fill: black;
+    font-size: 18px;
+    text-anchor: middle;
+}
+
+.pan:hover rect,
+.pan:hover text,
+.zoom:hover rect,
+.zoom:hover text {
+    fill: blue;
+}
+
+.text-country {
+    font-family: Helvetica, sans-serif;
+    font-size: 11px;
+    fill: black;
+    text-anchor: middle;
+}
+
+

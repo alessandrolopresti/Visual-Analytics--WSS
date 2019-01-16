@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>D3: Map value labels</title>
+    <script type="text/javascript" src="../../d3-package/d3.js"></script>
+    <script type="text/javascript" src="../../d3-package/d3-selection-multi.js"></script>
+    <script type="text/javascript" src="continent_map.js"></script>
+    <style type="text/css">
+
+        div {
+            margin-bottom: 10px;
+        }
+
+        .pan rect,
+        .zoom rect {
+            fill: black;
+            opacity: 0.2;
+        }
+
+        .zoom rect {
+            rx: 5;  /* Rounded corners */
+            ry: 5;
+        }
+
+        .pan text,
+        .zoom text {
+            fill: black;
+            font-size: 18px;
+            text-anchor: middle;
+        }
+
+        .pan:hover rect,
+        .pan:hover text,
+        .zoom:hover rect,
+        .zoom:hover text {
+            fill: blue;
+        }
+
+        .text-country {
+            font-family: Helvetica, sans-serif;
+            font-size: 11px;
+            fill: black;
+            text-anchor: middle;
+        }
+
+    </style>
+</head>
+<body>
+<div>
+</div>
+<script>
+    draw_continent_map();
+</script>
+</body>
+</html>

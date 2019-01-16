@@ -1,0 +1,15 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+United Kingdom,150,39,5,6,0,1
+Switzerland,142,6,5,1,1,0
+France,149,4,7,1,2,0
+Ireland,154,1,5,1,1,0
+Belgium,138,6,9,2,2,0
+Netherlands,164,16,6,4,0,0
+Hungary,153,10,16,2,2,0
+Czech Republic,143,2,9,0,2,0
+Germany,144,5,8,0,2,0
+Austria,137,12,24,2,3,0
+Sweden,173,15,10,1,2,0
+Norway,165,3,11,0,1,0
+Uruguay,29,4,4,1,1,1
+Argentina,18,4,4,1,1,1

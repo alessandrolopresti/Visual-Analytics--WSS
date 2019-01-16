@@ -1,0 +1,9 @@
+United Kingdom,Ireland,Hungary,Czech Republic,Belgium,Netherlands,France,Austria,
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 

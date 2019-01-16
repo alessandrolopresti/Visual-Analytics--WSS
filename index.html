@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>World Soccer Statistic</title>
+
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="js-css-code/line-chart/style.css">
+	<link rel="stylesheet" href="js-css-code/kmeans/style.css">
+	<link rel="stylesheet" href="js-css-code/chord-diagram/style.css">
+	<link rel="stylesheet" href="js-css-code/radar-plus-legend/style.css">
+	<link rel="stylesheet" href="js-css-code/continent-map/style.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+    <script src="d3-package/d3.js"></script>
+    <script src="d3-package/d3-selection-multi.js"></script>
+	<script src="js-css-code/kmeans/kmeans.js"></script>
+    <script src="js-css-code/chord-diagram/chord-diagram.js"></script>
+    <script src="js-css-code/radar-plus-legend/radar_plus_legend.js"></script>
+    <script src="js-css-code/continent-map/continent_map.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+
+<header>
+<img src = "images/FIFA_flag.png"/>
+<h1>World Soccer Statistic</h1>
+<ul>
+	<li>Angelo Catalani</li>
+	<li>Alessandro Lo Presti</li>
+</ul>
+</header>
+
+<!-- tooltip -->
+<div id="tooltip" class="hidden"> <p><strong>Match Played in</strong></p> <p><span id="value">100</span></p></div>
+<div id="tooltip2" class="hidden"style="diplay: inline"> <p><strong>Max Fifa Rank</strong></p> <p><span id="value2">100</span></p></div>
+<div id="tooltip3" class="hidden"style="diplay: inline"> <p ><strong id="value4">Exact Value</strong></p> <p><span id="value3">100</span></p></div>
+
+
+
+<!-- plot -->
+<div id='range-slider'style="display: inline"><span> Interval: [ 2006, 2008] </span></div>
+<div id="border-map">
+	<div id="continent-map"  style="display: inline"></div>
+	<div id="continent-map-legend-play"  style="display: inline"></div>
+	<div id="continent-map-legend"  style="display: inline"></div>
+</div>
+<div style="display: inline-block" class="radarChart "></div>
+<div style="display: inline-block" class="chordDiagram" ></div>
+<div id="chart" style="display: inline-block"></div>
+<div id="kmeans" class = "k" style="display: inline-block"></div>
+<br><br>
+
+
+<script>
+	<!-- linechart -->
+    var script = document.createElement('script');
+    script.src = 'js-css-code/line-chart/line-chart.js';
+    document.head.appendChild(script);
+    <!-- end linechart -->
+
+
+    draw_radar_plus_legend(['2006','2007','2008']);
+    draw_continent_map(['2006','2007','2008']);
+    add_time_bar();
+    draw_scatterplot_kmeans();
+    var node1 ={'team_color':'#7fc97f','properties':{'admin':'team1'}};
+    var node2 ={'team_color':'#beaed4','properties':{'admin':'team2'}};
+    plot_chord_diagram([[0,0],[0,0]],[node1,node2]);
+
+</script>
+
+</body>
+</html>

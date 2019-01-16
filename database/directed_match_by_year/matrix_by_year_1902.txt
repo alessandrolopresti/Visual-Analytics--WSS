@@ -1,0 +1,7 @@
+Ireland,United Kingdom,Uruguay,Argentina,Austria,Hungary,
+0 0 0 0 0 0 
+1 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 1 0 0 0 
+0 0 0 0 0 1 
+0 0 0 0 0 0 

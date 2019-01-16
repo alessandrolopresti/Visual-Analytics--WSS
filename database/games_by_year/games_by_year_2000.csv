@@ -1,0 +1,162 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+Togo,122,14,17,6,5,3
+Tunisia,123,33,21,8,3,7
+Trinidad and Tobago,16,42,29,12,8,5
+Canada,2,14,12,8,3,6
+Burkina Faso,80,19,22,4,6,5
+Gabon,93,14,19,3,6,2
+Guatemala,7,33,21,9,5,6
+Armenia,33,9,12,1,4,3
+Ivory Coast,84,20,10,6,2,3
+Egypt,90,21,11,10,4,2
+Mexico,11,41,20,12,6,3
+Iran,44,63,19,15,4,7
+Cameroon,85,26,8,7,1,5
+Senegal,116,15,19,2,5,11
+China,38,50,16,9,6,4
+New Zealand,132,11,7,5,4,2
+Jamaica,10,23,20,7,8,2
+United States of America,17,34,11,9,2,6
+Ghana,96,18,13,5,4,2
+Morocco,100,10,10,7,3,3
+Panama,13,20,37,6,10,3
+Algeria,89,26,20,5,5,7
+Qatar,66,32,20,8,6,6
+South Korea,52,42,13,12,2,8
+Philippines,63,2,19,1,5,0
+Zambia,127,18,14,7,6,6
+Nigeria,111,30,10,9,1,4
+South Africa,126,26,19,11,5,3
+Vietnam,75,30,10,5,3,2
+Republic of Congo,87,34,25,9,8,6
+Bosnia and Herzegovina,139,7,8,3,3,1
+Costa Rica,3,23,20,6,5,3
+Spain,146,21,16,7,4,3
+Poland,166,9,10,3,3,4
+Uganda,124,42,26,10,3,4
+Libya,97,11,12,3,4,1
+Chile,20,23,25,6,10,1
+Finland,148,13,16,5,5,3
+Iceland,156,13,10,5,3,1
+Norway,165,11,11,4,4,6
+Kuwait,53,45,12,7,4,4
+Syria,68,20,16,9,6,6
+Moldova,163,5,7,3,4,1
+Cyprus,40,16,13,5,2,2
+Lithuania,158,8,22,2,6,0
+Romania,169,23,25,7,7,3
+Latvia,160,4,12,2,6,0
+Sweden,173,9,11,2,4,6
+Georgia,41,9,8,2,3,4
+Japan,48,49,13,11,2,5
+Albania,136,11,3,5,2,1
+Azerbaijan,34,2,13,0,7,2
+Malaysia,59,47,26,13,7,4
+Czech Republic,143,21,13,6,5,1
+North Korea,64,9,13,1,3,3
+Bulgaria,140,17,13,5,4,2
+Slovakia,171,13,7,5,2,6
+Australia,129,39,11,8,3,4
+Honduras,8,48,22,13,5,0
+El Salvador,15,23,30,6,8,1
+Turkmenistan,71,15,9,3,2,0
+Nepal,60,3,13,1,3,0
+Yemen,77,14,13,2,4,0
+Colombia,21,16,14,7,5,4
+Bhutan,37,2,42,0,4,0
+Haiti,9,32,38,6,8,3
+Dominican Republic,5,7,5,3,2,0
+Brunei,36,0,11,0,3,0
+Peru,27,14,20,3,8,3
+Lebanon,55,19,19,4,4,8
+Oman,61,14,17,4,6,0
+Switzerland,142,17,12,2,2,5
+United Arab Emirates,32,11,14,4,2,4
+Slovenia,172,20,14,4,2,5
+Lesotho,99,12,22,4,8,6
+Swaziland,120,5,21,1,7,2
+Thailand,69,50,39,13,7,5
+Belgium,138,16,11,4,2,4
+Portugal,167,29,12,10,2,2
+Croatia,152,5,6,1,1,5
+United Kingdom,150,11,11,3,4,4
+Argentina,18,24,8,9,1,2
+Estonia,147,14,14,6,4,1
+France,149,34,14,11,1,4
+Greece,151,12,12,4,4,2
+Austria,137,11,10,2,2,3
+Hungary,153,15,10,4,1,4
+Ireland,154,26,18,7,5,5
+Israel,45,13,14,3,5,1
+Russia,168,10,5,5,1,1
+Italy,155,20,9,9,3,2
+Jordan,47,24,17,5,5,12
+Luxembourg,159,3,12,0,5,1
+Macedonia,161,9,12,3,6,1
+Republic of Serbia,170,19,18,6,3,4
+Netherlands,164,30,13,9,1,4
+Germany,144,23,16,5,4,3
+Brazil,22,32,10,8,2,3
+Turkey,73,7,13,3,5,2
+Botswana,82,8,6,4,3,2
+Uzbekistan,76,15,23,2,5,1
+Mongolia,58,2,18,0,4,0
+Nicaragua,12,0,14,0,5,0
+The Bahamas,1,5,15,2,2,0
+Bolivia,19,14,21,3,8,4
+Cuba,4,14,10,3,3,7
+Belize,0,2,10,0,3,1
+Ethiopia,92,15,14,6,3,2
+Sudan,114,10,11,3,6,0
+Suriname,28,1,2,1,2,1
+Zimbabwe,128,21,14,9,4,0
+Ecuador,24,18,19,6,6,2
+Puerto Rico,14,4,6,0,1,1
+Malawi,108,17,22,3,6,5
+Venezuela,30,15,32,3,10,1
+Kazakhstan,49,12,13,5,4,0
+Namibia,109,18,14,4,3,2
+Gambia,94,4,9,0,3,5
+Mauritania,107,4,9,0,3,4
+Taiwan,74,3,12,1,5,0
+Belarus,141,7,13,3,4,0
+Paraguay,26,20,11,7,3,4
+Denmark,145,11,17,3,5,3
+Uruguay,29,12,7,4,3,3
+Palestine,65,6,13,1,5,1
+Kenya,98,17,19,3,8,5
+Pakistan,62,0,16,0,4,0
+Laos,54,2,30,1,6,0
+Djibouti,88,7,29,0,6,2
+Fiji,130,13,4,3,0,1
+Papua New Guinea,133,4,19,0,4,0
+Madagascar,104,9,5,4,3,2
+New Caledonia,131,15,12,4,2,0
+Solomon Islands,134,17,19,4,3,1
+Sierra Leone,117,8,14,2,5,1
+Guinea,95,25,18,8,3,2
+Benin,81,6,12,1,3,1
+Central African Republic,83,2,7,0,3,1
+Chad,121,1,4,0,2,1
+Liberia,101,8,5,3,2,1
+Equatorial Guinea,103,3,10,0,4,0
+Eritrea,91,4,12,1,3,2
+Mali,105,13,16,3,3,2
+Rwanda,112,16,13,6,3,3
+Mozambique,106,5,8,2,4,2
+Angola,78,19,11,5,2,4
+Vanuatu,135,18,19,3,7,0
+Somalia,119,1,14,0,4,1
+Ukraine,174,6,7,3,2,0
+Sri Lanka,56,7,13,2,3,3
+Bangladesh,35,2,4,0,2,2
+India,43,2,3,1,2,1
+Saudi Arabia,67,28,16,8,4,4
+Kyrgyzstan,50,0,9,0,4,0
+Iraq,46,22,16,7,4,4
+Burundi,79,12,10,4,4,1
+Niger,110,0,7,0,2,0
+Guyana,25,0,0,0,0,1
+Indonesia,42,21,19,6,5,2
+Cambodia,51,6,13,1,4,1
+Tajikistan,70,16,2,1,1,0

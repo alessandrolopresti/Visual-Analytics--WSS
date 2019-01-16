@@ -1,0 +1,6 @@
+Hungary,Czech Republic,Argentina,Uruguay,Austria,
+0 1 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+1 0 0 0 0 

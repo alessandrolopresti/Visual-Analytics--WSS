@@ -1,0 +1,15 @@
+Ireland,United Kingdom,Switzerland,France,Belgium,Netherlands,Hungary,Czech Republic,Germany,Austria,Sweden,Norway,Uruguay,Argentina,
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 1 1 0 2 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 2 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 

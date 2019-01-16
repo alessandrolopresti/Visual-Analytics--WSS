@@ -1,0 +1,157 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+Zambia,127,20,20,5,6,6
+Costa Rica,3,37,17,12,3,5
+Guatemala,7,15,16,2,2,5
+Egypt,90,38,22,8,4,8
+United Arab Emirates,32,39,32,8,11,4
+Swaziland,120,11,12,3,4,3
+Angola,78,20,17,6,4,6
+Lesotho,99,9,13,3,6,3
+Namibia,109,10,37,1,10,3
+Togo,122,18,15,5,3,6
+Burkina Faso,80,15,21,4,9,3
+Romania,169,21,14,7,4,4
+Jordan,47,15,12,4,4,3
+Algeria,89,20,22,6,6,3
+Burundi,79,10,10,2,4,2
+Bosnia and Herzegovina,139,23,21,6,5,6
+Bangladesh,35,9,22,2,5,2
+Qatar,66,38,23,13,5,9
+Kuwait,53,24,18,6,4,6
+Uzbekistan,76,42,28,11,7,3
+India,43,12,10,3,3,2
+Iceland,156,16,17,4,4,2
+Kenya,98,14,10,5,2,5
+Gabon,93,6,4,2,1,2
+Madagascar,104,6,20,2,8,1
+Nigeria,111,22,8,7,2,4
+Tunisia,123,29,8,7,2,2
+Morocco,100,16,9,7,4,5
+Uganda,124,15,18,2,7,2
+Senegal,116,24,6,9,2,3
+Republic of Congo,87,17,40,5,11,6
+Ghana,96,13,14,4,4,4
+Libya,97,9,24,1,8,2
+Guinea,95,2,1,1,0,2
+Liberia,101,22,24,6,6,1
+Republic of Serbia,170,30,13,8,3,5
+Zimbabwe,128,17,10,8,4,1
+Chile,20,18,25,6,11,2
+China,38,52,20,14,4,5
+Israel,45,14,9,4,2,3
+Syria,68,44,16,4,5,4
+Iran,44,35,20,11,5,4
+Ivory Coast,84,26,8,7,1,4
+Sudan,114,9,13,5,5,2
+Mali,105,17,14,7,5,2
+North Korea,64,5,6,1,3,2
+Japan,48,15,13,6,5,3
+Thailand,69,46,38,10,7,6
+South Korea,52,22,23,8,4,5
+Norway,165,21,16,5,3,3
+Mexico,11,37,38,11,12,4
+Bulgaria,140,16,15,7,3,2
+Benin,81,6,11,1,2,2
+Cameroon,85,13,9,6,3,3
+Botswana,82,9,9,4,3,0
+Trinidad and Tobago,16,39,30,11,9,4
+Paraguay,26,18,23,4,6,4
+South Africa,126,16,9,7,3,2
+United States of America,17,14,13,6,6,3
+Malawi,108,8,16,2,6,2
+Jamaica,10,15,20,5,8,6
+Saudi Arabia,67,62,16,17,4,3
+Kyrgyzstan,50,4,12,1,5,1
+Lebanon,55,32,8,5,1,4
+Iraq,46,39,18,6,6,6
+Colombia,21,32,13,13,2,3
+Sweden,173,36,7,12,1,4
+Finland,148,24,12,7,2,4
+Puerto Rico,14,1,4,0,2,1
+Fiji,130,34,7,5,2,0
+Malaysia,59,15,28,3,7,2
+Mongolia,58,2,22,0,5,1
+Vietnam,75,9,9,3,2,1
+Armenia,33,6,14,1,3,4
+Georgia,41,15,12,5,3,2
+Ukraine,174,14,13,3,3,7
+Moldova,163,6,21,1,6,3
+Azerbaijan,34,5,15,1,6,2
+Oman,61,63,36,14,9,7
+Panama,13,18,18,4,5,6
+Sierra Leone,117,3,9,1,4,2
+Cyprus,40,12,31,2,6,2
+Lithuania,158,12,22,2,6,2
+Slovakia,171,17,16,3,5,3
+France,149,30,8,9,3,1
+Germany,144,23,15,6,2,3
+Belgium,138,25,11,6,2,2
+Hungary,153,15,17,2,5,4
+Australia,129,80,13,10,5,1
+Honduras,8,40,29,9,7,6
+Croatia,152,20,8,6,1,4
+Austria,137,9,16,3,5,2
+United Kingdom,150,24,8,7,1,2
+Spain,146,20,6,7,1,1
+Greece,151,16,22,2,4,4
+Russia,168,20,9,6,1,4
+Italy,155,13,4,6,1,2
+Argentina,18,22,8,6,0,3
+Latvia,160,14,17,3,6,1
+Luxembourg,159,3,25,0,9,0
+Macedonia,161,10,27,0,8,5
+Czech Republic,143,22,12,5,4,3
+Netherlands,164,27,6,6,1,3
+Turkey,73,21,10,6,2,4
+Ireland,154,31,19,9,6,3
+Portugal,167,35,10,7,1,2
+Slovenia,172,16,13,5,2,5
+Uruguay,29,19,14,7,5,5
+Switzerland,142,13,15,4,5,1
+Poland,166,21,11,5,1,5
+Dominican Republic,5,4,4,1,1,0
+Brazil,22,28,19,8,8,4
+Palestine,65,8,9,2,3,1
+El Salvador,15,10,11,2,3,6
+Peru,27,11,20,3,6,4
+Mozambique,106,4,4,2,1,1
+Estonia,147,15,36,0,7,6
+Albania,136,4,12,1,6,0
+Denmark,145,22,5,6,1,3
+Belarus,141,7,6,2,2,3
+Bolivia,19,16,26,2,6,3
+Venezuela,30,12,23,4,6,1
+Ecuador,24,18,12,6,3,5
+Sri Lanka,56,9,20,2,4,1
+Cambodia,51,2,23,0,6,1
+Cuba,4,16,15,5,4,4
+Guyana,25,4,3,2,1,0
+Suriname,28,14,12,2,2,2
+Haiti,9,33,12,6,2,5
+Brunei,36,0,28,0,6,0
+Yemen,77,14,8,3,1,2
+Mauritania,107,2,7,0,4,0
+Indonesia,42,16,7,4,2,0
+Nepal,60,13,25,2,4,0
+Kazakhstan,49,20,2,4,0,3
+Turkmenistan,71,7,7,3,2,0
+Taiwan,74,0,14,0,3,0
+Belize,0,10,10,3,1,1
+Nicaragua,12,3,23,0,5,0
+Canada,2,2,10,1,4,1
+Philippines,63,2,32,0,6,1
+Bhutan,37,1,3,0,1,0
+Laos,54,3,40,1,4,1
+Pakistan,62,5,29,0,5,1
+New Zealand,132,20,10,4,3,0
+Gambia,94,3,4,1,1,3
+Solomon Islands,134,17,10,2,2,0
+Vanuatu,135,11,21,1,3,0
+Greenland,6,10,3,3,1,1
+Falkland Islands,23,4,17,1,3,0
+The Bahamas,1,0,2,0,1,0
+Ethiopia,92,11,5,3,1,1
+Rwanda,112,7,3,3,1,1
+Somalia,119,0,6,0,2,1
+Djibouti,88,3,17,0,3,0
+Eritrea,91,1,4,0,3,1

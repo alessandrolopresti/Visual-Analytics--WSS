@@ -1,0 +1,65 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+Honduras,8,6,3,2,1,0
+Colombia,21,4,1,2,0,1
+United States of America,17,0,2,0,1,0
+Egypt,90,0,2,0,1,0
+Hungary,153,24,19,6,3,3
+Morocco,100,10,9,3,3,2
+Tunisia,123,4,3,1,1,1
+Costa Rica,3,12,7,3,2,0
+Cuba,4,2,9,0,4,0
+Ghana,96,13,4,3,1,3
+Mali,105,0,3,0,1,0
+El Salvador,15,0,0,0,0,1
+Haiti,9,13,5,5,1,0
+Germany,144,19,20,5,6,2
+Belgium,138,15,12,3,4,1
+Guatemala,7,3,3,1,1,0
+Panama,13,4,17,1,5,1
+Nicaragua,12,1,2,0,1,0
+Israel,45,7,15,2,3,1
+Ethiopia,92,6,7,1,2,0
+France,149,7,10,1,4,2
+Chile,20,16,11,3,4,1
+Peru,27,3,7,0,2,1
+Paraguay,26,5,14,0,5,3
+Portugal,167,9,9,1,3,1
+Luxembourg,159,5,12,1,2,0
+Mexico,11,16,14,4,3,3
+Netherlands,164,11,15,1,3,2
+Czech Republic,143,27,12,6,1,1
+Sweden,173,18,8,5,3,0
+Spain,146,12,5,5,0,2
+Nigeria,111,9,14,2,3,2
+Ireland,154,12,36,1,9,1
+United Kingdom,150,30,12,5,1,3
+Sierra Leone,117,1,4,0,1,0
+Italy,155,19,8,4,1,0
+Brazil,22,11,5,5,0,0
+Greece,151,3,5,1,2,0
+Bosnia and Herzegovina,139,27,13,8,1,1
+Turkey,73,5,9,3,4,0
+Romania,169,5,0,2,0,0
+Norway,165,6,23,0,7,2
+Argentina,18,12,12,2,3,3
+Switzerland,142,7,8,3,1,0
+Poland,166,11,6,3,2,1
+Russia,168,16,7,7,2,1
+Austria,137,9,5,4,1,0
+Denmark,145,16,14,2,3,1
+Japan,48,8,10,2,3,0
+Malaysia,59,9,8,2,3,0
+South Korea,52,5,13,1,4,1
+Finland,148,7,24,1,5,0
+Bulgaria,140,7,5,4,1,0
+Bolivia,19,2,3,0,1,1
+Uruguay,29,8,7,2,1,2
+Indonesia,42,12,16,4,3,1
+India,43,3,8,0,3,0
+Kenya,98,27,10,6,3,1
+Uganda,124,10,11,4,4,0
+Thailand,69,6,11,0,4,0
+New Caledonia,131,7,3,2,0,1
+Venezuela,30,9,2,2,0,0
+Senegal,116,2,3,0,1,0
+Gambia,94,3,2,1,0,0

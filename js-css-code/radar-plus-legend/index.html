@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/ >
+    <title>Smoothed D3.js Radar Chart</title>
+
+
+    <!-- D3.js -->
+    <script src="../../d3-package/d3.js" charset="utf-8"></script>
+    <script src="../../d3-package/d3-selection-multi.js" charset="utf-8"></script>
+    <script src="radar_plus_legend.js" charset="utf-8"></script>
+
+    <style>
+        @import url(style.css);
+    </style>
+
+
+
+</head>
+<body >
+<div class="radar-legend-dropdown">
+    <button onclick="myFunction()" class="radar-legend-dropbtn">Choose a team</button>
+    <div id="radar-legend-myDropdown" class="radar-legend-dropdown-content" style="height: 100px; width:90px">
+        <input type="text" placeholder="Search.." id="radar-legend-myInput" onkeyup="filterFunction()">
+    </div>
+</div>
+
+
+
+<div class="radarChart"></div>
+
+
+
+<script>
+
+draw_radar_plus_legend();
+
+
+</script>
+</body>
+</html>

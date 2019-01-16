@@ -1,0 +1,39 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+Argentina,18,10,6,2,1,1
+Chile,20,12,13,2,3,0
+Paraguay,26,12,15,2,4,1
+Peru,27,13,4,4,0,0
+Ecuador,24,4,18,0,4,0
+Brazil,22,3,2,1,0,0
+Uruguay,29,13,5,3,1,0
+France,149,11,4,3,0,1
+Poland,166,8,10,1,1,2
+Belgium,138,13,19,1,4,1
+Germany,144,44,30,9,4,3
+Portugal,167,2,4,0,1,0
+Switzerland,142,15,7,5,0,1
+Bosnia and Herzegovina,139,9,21,1,6,0
+Netherlands,164,11,11,2,2,0
+Hungary,153,19,20,2,4,3
+Haiti,9,5,1,2,0,1
+Panama,13,1,9,0,3,1
+Ireland,154,6,8,0,1,3
+Italy,155,17,16,5,2,1
+Luxembourg,159,2,1,1,0,0
+United Kingdom,150,7,5,2,1,1
+Romania,169,5,3,2,2,0
+Latvia,160,6,10,1,2,1
+Bulgaria,140,4,2,1,1,0
+Sweden,173,22,7,5,1,0
+Norway,165,11,21,2,5,0
+Finland,148,9,28,1,6,0
+Lithuania,158,1,7,1,1,0
+Denmark,145,24,11,4,2,0
+Estonia,147,5,10,0,3,1
+Cuba,4,4,0,1,0,0
+Czech Republic,143,16,12,1,0,2
+Slovakia,171,3,3,1,1,0
+China,38,0,3,0,1,0
+Japan,48,9,0,2,0,0
+Uganda,124,5,2,1,0,0
+Kenya,98,2,5,0,1,0

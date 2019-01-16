@@ -1,0 +1,72 @@
+team,team-id,gol-done,gol-received,win,lost,draw
+Germany,144,22,14,2,3,2
+Israel,45,10,2,5,1,0
+Sri Lanka,56,5,25,0,3,0
+Cameroon,85,23,15,4,1,3
+Benin,81,4,2,1,0,0
+Republic of Congo,87,23,21,2,4,5
+Ghana,96,16,4,4,0,0
+Indonesia,42,13,4,2,0,0
+Japan,48,2,1,1,0,0
+Libya,97,10,7,2,1,2
+Lebanon,55,5,5,2,2,1
+Spain,146,12,5,4,1,0
+Ireland,154,23,27,5,7,0
+Ivory Coast,84,1,1,0,0,1
+Mali,105,1,2,0,1,1
+Bulgaria,140,0,2,0,2,2
+Bosnia and Herzegovina,139,13,13,4,4,1
+Egypt,90,1,0,1,0,0
+Algeria,89,2,3,0,1,1
+Belgium,138,7,6,2,2,2
+Netherlands,164,6,4,2,2,3
+Chad,121,0,11,0,1,0
+Guyana,25,11,19,1,4,2
+Trinidad and Tobago,16,15,5,4,0,1
+Italy,155,12,3,3,0,1
+Czech Republic,143,9,10,1,2,2
+United Kingdom,150,30,20,6,3,3
+Austria,137,6,5,3,1,1
+Switzerland,142,9,13,2,5,0
+France,149,5,8,2,3,0
+Hungary,153,15,9,5,2,1
+Sweden,173,12,11,2,2,4
+Uruguay,29,3,6,1,3,0
+Portugal,167,12,15,3,3,1
+Poland,166,13,10,3,1,1
+Greece,151,9,3,3,0,0
+Ethiopia,92,3,6,0,2,0
+Norway,165,9,10,3,3,1
+Russia,168,12,8,3,2,4
+Tunisia,123,4,6,1,1,0
+Albania,136,0,4,0,2,0
+India,43,17,9,5,2,0
+South Korea,52,4,5,2,2,0
+United States of America,17,0,10,0,1,0
+Brazil,22,9,5,2,1,0
+Argentina,18,20,5,5,1,1
+Suriname,28,4,6,0,1,1
+Finland,148,8,16,3,4,0
+Denmark,145,10,19,3,6,0
+Romania,169,2,1,1,0,0
+Guinea,95,2,1,1,0,0
+Zambia,127,23,15,3,4,0
+Malawi,108,0,5,0,1,0
+Central African Republic,83,1,2,0,1,0
+Iceland,156,4,5,1,1,0
+Cambodia,51,0,9,0,3,0
+Taiwan,74,14,13,2,2,0
+Malaysia,59,7,8,1,2,1
+Thailand,69,3,3,1,1,1
+Kenya,98,17,25,3,5,0
+New Caledonia,131,3,4,1,1,0
+Puerto Rico,14,0,8,0,2,0
+Luxembourg,159,1,7,0,3,0
+Chile,20,1,6,0,1,1
+Turkey,73,6,4,1,1,1
+Uganda,124,19,18,5,3,0
+Burundi,79,5,7,0,1,0
+Jordan,47,2,7,0,2,1
+Kuwait,53,5,5,1,2,1
+Iraq,46,2,0,2,0,0
+Paraguay,26,4,8,1,1,0

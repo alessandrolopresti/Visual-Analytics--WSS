@@ -1,0 +1,5 @@
+United Kingdom,Ireland,United States of America,Canada,
+0 1 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 1 0 
